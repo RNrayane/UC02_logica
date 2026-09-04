@@ -15,4 +15,4 @@ programa{
          escreva(" nao tem direito a maia-entrada")
         }         
     }
-}
+} 
