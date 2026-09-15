@@ -1,0 +1,96 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Cópia do Página-1" id="r9MQWCQPMu0RjclN7AIG">
+    <mxGraphModel dx="1063" dy="1197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="LrMJGQG2Yru4LTtbZpAw-0" />
+        <mxCell id="LrMJGQG2Yru4LTtbZpAw-1" parent="LrMJGQG2Yru4LTtbZpAw-0" />
+        <mxCell id="LrMJGQG2Yru4LTtbZpAw-2" edge="1" parent="LrMJGQG2Yru4LTtbZpAw-1" source="LrMJGQG2Yru4LTtbZpAw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="441" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrMJGQG2Yru4LTtbZpAw-3" parent="LrMJGQG2Yru4LTtbZpAw-1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="inicio" vertex="1">
+          <mxGeometry height="60" width="100" x="510" y="351" as="geometry" />
+        </mxCell>
+        <mxCell id="LrMJGQG2Yru4LTtbZpAw-4" edge="1" parent="LrMJGQG2Yru4LTtbZpAw-1" source="LrMJGQG2Yru4LTtbZpAw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="561" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrMJGQG2Yru4LTtbZpAw-5" parent="LrMJGQG2Yru4LTtbZpAw-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="real salario,inss,irr,outros,liquidos" vertex="1">
+          <mxGeometry height="60" width="280" x="416" y="461" as="geometry" />
+        </mxCell>
+        <mxCell id="LrMJGQG2Yru4LTtbZpAw-6" edge="1" parent="LrMJGQG2Yru4LTtbZpAw-1" source="LrMJGQG2Yru4LTtbZpAw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550.5" y="671" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrMJGQG2Yru4LTtbZpAw-7" parent="LrMJGQG2Yru4LTtbZpAw-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="escreva(&quot;digite o salario bruto: &quot;)" vertex="1">
+          <mxGeometry height="60" width="337.5" x="386" y="571" as="geometry" />
+        </mxCell>
+        <mxCell id="LrMJGQG2Yru4LTtbZpAw-8" edge="1" parent="LrMJGQG2Yru4LTtbZpAw-1" source="LrMJGQG2Yru4LTtbZpAw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550.5" y="801" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrMJGQG2Yru4LTtbZpAw-9" parent="LrMJGQG2Yru4LTtbZpAw-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="leia(salario)" vertex="1">
+          <mxGeometry height="60" width="130" x="485.5" y="696" as="geometry" />
+        </mxCell>
+        <mxCell id="LrMJGQG2Yru4LTtbZpAw-10" edge="1" parent="LrMJGQG2Yru4LTtbZpAw-1" source="LrMJGQG2Yru4LTtbZpAw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550.5" y="931" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrMJGQG2Yru4LTtbZpAw-11" parent="LrMJGQG2Yru4LTtbZpAw-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="// exemplo de regra do inss" vertex="1">
+          <mxGeometry height="60" width="384" x="356" y="821" as="geometry" />
+        </mxCell>
+        <mxCell id="LrMJGQG2Yru4LTtbZpAw-12" edge="1" parent="LrMJGQG2Yru4LTtbZpAw-1" source="LrMJGQG2Yru4LTtbZpAw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="326" y="1151" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrMJGQG2Yru4LTtbZpAw-13" edge="1" parent="LrMJGQG2Yru4LTtbZpAw-1" source="LrMJGQG2Yru4LTtbZpAw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="766" y="1151" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrMJGQG2Yru4LTtbZpAw-14" parent="LrMJGQG2Yru4LTtbZpAw-1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="se (salario &amp;lt;= 2000)" vertex="1">
+          <mxGeometry height="150" width="154.5" x="476" y="971" as="geometry" />
+        </mxCell>
+        <mxCell id="LrMJGQG2Yru4LTtbZpAw-15" edge="1" parent="LrMJGQG2Yru4LTtbZpAw-1" source="LrMJGQG2Yru4LTtbZpAw-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="436" y="1311" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrMJGQG2Yru4LTtbZpAw-16" parent="LrMJGQG2Yru4LTtbZpAw-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="inss = salario * 0.09" vertex="1">
+          <mxGeometry height="80" width="280" x="211" y="1181" as="geometry" />
+        </mxCell>
+        <mxCell id="LrMJGQG2Yru4LTtbZpAw-17" edge="1" parent="LrMJGQG2Yru4LTtbZpAw-1" source="LrMJGQG2Yru4LTtbZpAw-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="676" y="1301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrMJGQG2Yru4LTtbZpAw-18" parent="LrMJGQG2Yru4LTtbZpAw-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="irr = salario * 0.10" vertex="1">
+          <mxGeometry height="60" width="235" x="606" y="1191" as="geometry" />
+        </mxCell>
+        <mxCell id="LrMJGQG2Yru4LTtbZpAw-19" parent="LrMJGQG2Yru4LTtbZpAw-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="sim" vertex="1">
+          <mxGeometry height="30" width="60" x="356" y="981" as="geometry" />
+        </mxCell>
+        <mxCell id="LrMJGQG2Yru4LTtbZpAw-20" parent="LrMJGQG2Yru4LTtbZpAw-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="não" vertex="1">
+          <mxGeometry height="30" width="60" x="655.5" y="991" as="geometry" />
+        </mxCell>
+        <mxCell id="LrMJGQG2Yru4LTtbZpAw-21" parent="LrMJGQG2Yru4LTtbZpAw-1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="fim" vertex="1">
+          <mxGeometry height="60" width="100" x="510" y="1571" as="geometry" />
+        </mxCell>
+        <mxCell id="LrMJGQG2Yru4LTtbZpAw-22" edge="1" parent="LrMJGQG2Yru4LTtbZpAw-1" source="LrMJGQG2Yru4LTtbZpAw-23" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="556" y="1531" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LrMJGQG2Yru4LTtbZpAw-23" parent="LrMJGQG2Yru4LTtbZpAw-1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="na função escreva coloque as variaveis&lt;div&gt;para obter o resultado&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="425.75" x="340.25" y="1331" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
